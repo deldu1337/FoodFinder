@@ -1,0 +1,62 @@
+.Header { 
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 80px;
+    z-index: 100;
+}
+
+#main{
+    margin-top: 150px;
+}
+
+#EditProfile{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#editImgButton{
+    border: 2px solid #ff6161;
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+}
+
+#editNicknameButton{
+    border: 2px solid #ff6161;
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+}
+
+#editProfileInput {
+    border: 2px solid #ff6161;
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+    /* width: 200px; */
+}
+
+#editProfileH4{
+    /* width : 100px; */
+}
+
+#editProfileImg {
+    border-radius: 70%;
+    margin-right: 5px;
+    object-fit:cover;
+}
+
+#editProfileInput {
+    border: 2px solid #ff6161;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#editProfileTable{
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}

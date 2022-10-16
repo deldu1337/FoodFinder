@@ -1,0 +1,206 @@
+.Single-recipe {
+    position: relative;   
+    top: 90px;
+    margin: 10px;
+}
+
+.Recipe-img {
+    position: relative;
+    text-align: center;
+    transform: translate(50%);
+    width: 50%;
+    min-height: 45%;
+    object-fit: fill;
+}
+
+.Recipe-name {
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: 2px solid black;
+    position: relative;
+    transform: translate(50.3%);
+    top: 5px;
+    width: 50%;
+    min-height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.likehit {
+    position: relative;
+    display: flex;
+    top: 5px;
+    height: 30px;
+}
+
+#like {
+    position: relative;
+    display: flex;
+    left: 40%;
+}
+
+.likes{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    line-height: 30px;
+    color: #ff6f61; 
+    font-size: smaller;
+ }
+
+ .likes-text {
+     position: relative;
+     width: 100%;
+     height: 80%;
+     line-height: 25px;
+     text-align: center;
+ }
+
+.hit {
+   position: relative;
+   left: 45%;
+   width: 15%;
+   height: 80%;
+   line-height: 25px;
+   font-size: smaller;
+   text-align: center;
+}
+
+.Recipe-intro{
+    position: relative;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    transform: translate(50.3%);
+    top: 5px;
+    width: 50%;
+    min-height: 60px;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    color: gray;
+    font-style: italic;
+}
+
+.Recipe-Ingre{
+   position: relative;
+   border: 1px solid black;
+   border-left: none;
+   border-right: none;
+   transform: translate(50.3%);
+   top: 5px;
+   width: 50%;
+   min-height: 80px;
+   line-height: 40px;
+   font-weight: bold;
+   font-size: 16px;
+}
+
+.Recipe-detail{
+   position: relative;
+   border: 1px solid black;
+   border-left: none;
+   border-right: none;
+   border-bottom: 2px solid black;
+   transform: translate(50.3%);
+   top: 5px;
+   width: 50%;
+   min-height: 160px;
+   line-height: 45px;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.comment-container{
+    position: relative;
+    border-bottom: 2px solid black;
+    transform: translate(50.3%);
+    top: 5px;
+    width: 50%;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.writing-comment{
+    position: relative;
+    display: flex;
+}
+.comment-btn {
+    position: absolute;
+    top: -25px;
+    right: 5px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.comment-textarea{
+    position: relative;
+    top: 15px;
+    left: -40%;
+    width: 100%;
+    min-height: 65px;
+    margin-bottom: 30px;
+}
+
+.comments {
+    position: relative;
+    border-top: 1px solid black;
+}
+.user-info {
+    position: relative;
+    display: flex;
+    top: 10px;
+}
+.Profile {
+    position: relative;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    top: 3px;
+    text-align: center;
+    font-size: 10px;
+}
+.username {
+    position: relative;
+    width: 300px;
+    top: 3px;
+    line-height: 50px;
+    margin-left: 10px;
+}
+.username-link {
+    color: black;
+}
+
+.comment-info {
+    position: relative;
+    top: 25px;
+}
+.comment {
+    position: relative;
+    min-height: 100px;
+    margin-left: 10px;
+}
+.comment-delbtn {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.comment-area {
+    position: relative;
+    font-weight: bold;
+    font-size: smaller;
+    left: 25%;
+    width: 60%;
+    padding: 20px;
+}

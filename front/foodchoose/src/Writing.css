@@ -1,0 +1,124 @@
+#Conditions {
+    position: relative;
+    width: 90%;
+    top: 110px;
+    margin: 0 auto;
+}
+
+.Condition {
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+
+.Con {
+    position: absolute;
+    border: 1px solid black;
+    font-weight: bold;
+    align-items: center;
+    width: 130px;
+    height: 40px;
+    left: 10%;
+    line-height: 40px;
+}
+
+#StepsCon {
+    position: relative;
+    text-align: center;
+}
+
+textarea {
+    position: relative;
+    align-items: center;
+    margin-left: 50px;
+    width: 60%;
+    transform: translate(40%);
+    resize: none;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#Naming {
+    margin-bottom: 20px;
+    height: 100px;
+}
+
+.Naming-textarea {
+    position: absolute;
+    align-items: center;
+    width: 60%;
+    resize: none;
+    padding: 10px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+#Introducing {
+    position: relative;
+    top: -5px;    
+}
+
+.Introducing-textarea {
+    height: 40px;
+}
+
+.Need-textarea {
+    height: 40px;
+    top: 10px;
+}
+
+#Step {
+    position: relative;
+    height: 200px;
+}
+
+#Step-textarea {
+    position: absolute;
+    align-items: center;
+    width: 60%;
+    height: 140px;
+    resize: none;
+    padding: 10px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+#Thumbnail {
+    height: 170px;
+}
+
+#Thumbnail img {
+    position: relative;
+    border: 1px solid black;
+    padding: 5px;
+    width: 330px;
+    height: 159px;
+    left: 377px;
+    overflow: hidden;
+}
+
+#post-thumb {
+    position: absolute;
+    width: 16%;
+    left: 60%;
+    margin-left: 65px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+#Submit {
+    position: relative;
+    border: 2px solid #ff6f61;
+    left: 40%;
+    width: 18%;
+    height: 35px;
+    line-height: 35px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
