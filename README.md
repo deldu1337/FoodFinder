@@ -24,6 +24,8 @@
  >
  > Node.js version 16.17.0
  >
+ > React version 17.0.2
+ >
  > IntelliJ IDEA version 2021.3.2
  >
  > IntelliJ IDEA version 2021.3.2
