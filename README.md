@@ -14,20 +14,20 @@
  
  -----------------------
 ## Environment
- > Java version 11.0.12
+ > Java Version 11.0.12
  > 
- > SpringFrameWork version 5.3.16
+ > SpringFrameWork Version 5.3.16
  >
- > Spring-boot version 2.6.4
+ > Spring-boot Version 2.6.4
  > 
- > gradle version 7.4
+ > gradle Version 7.4
  >
- > Node.js version 16.17.0
+ > Node.js Version 16.17.0
  >
- > React version 17.0.2
+ > React Version 17.0.2
  >
- > IntelliJ IDEA version 2021.3.2
+ > IntelliJ IDEA Version 2021.3.2
  >
- > IntelliJ IDEA version 2021.3.2
+ > Visual Studio Code IDE Version 2022-09 (1.72.0)
  >
- > MySQL version 8.0.26
+ > MySQL Version 8.0.26
