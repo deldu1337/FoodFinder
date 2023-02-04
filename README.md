@@ -42,12 +42,18 @@
  ![마이페이지](https://user-images.githubusercontent.com/77719450/216754135-15bfedd2-0ba2-4e3c-b947-0b72a8cf470a.PNG)
 
 
+ ## 프로필 수정
+ ![프로필수정](https://user-images.githubusercontent.com/77719450/216754659-81214378-ea93-4539-bb4a-3f6fdc39c30d.PNG)
+
+
  ## 회원 정보 수정
- ![회원정보수정](https://user-images.githubusercontent.com/77719450/216754492-7bdfd7af-3bec-4467-ae13-52557fa0ed34.PNG)
+ ![회원정보수정](https://user-images.githubusercontent.com/77719450/216754651-5e7201eb-e408-4288-9261-39035b68d6a3.PNG)
+
 
  
  ## 내가 쓴 글
- ![내가쓴글](https://user-images.githubusercontent.com/77719450/216754497-4b375a8e-4bae-4ad6-8a26-d2a859430e3e.PNG)
+ ![내가쓴글](https://user-images.githubusercontent.com/77719450/216754644-a95a1635-84c8-48d7-a79f-3e4d78a42963.PNG)
+
 
  
  
