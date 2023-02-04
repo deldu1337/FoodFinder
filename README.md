@@ -83,6 +83,9 @@
  
  
  ## 게시판
+ ![게시판1](https://user-images.githubusercontent.com/77719450/216756440-786289df-0641-48f8-abad-afd3b11431f4.PNG)
+ ![게시판2](https://user-images.githubusercontent.com/77719450/216756445-bac6d813-201f-45ae-8886-859ccbd245bd.PNG)
+ ![게시판3](https://user-images.githubusercontent.com/77719450/216756589-94841648-ad7b-4104-b83b-8952cda2e5cb.PNG)
  1. 본인만의 레시피를 게시판에 업로드
  2. 게시판 이용자들과 서로 레시피 공유 및 자유로운 소통 가능
  
