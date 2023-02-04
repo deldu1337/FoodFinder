@@ -42,6 +42,13 @@
  ![마이페이지](https://user-images.githubusercontent.com/77719450/216754135-15bfedd2-0ba2-4e3c-b947-0b72a8cf470a.PNG)
 
 
+ ## 회원 정보 수정
+ ![회원정보수정](https://user-images.githubusercontent.com/77719450/216754492-7bdfd7af-3bec-4467-ae13-52557fa0ed34.PNG)
+
+ 
+ ## 내가 쓴 글
+ ![내가쓴글](https://user-images.githubusercontent.com/77719450/216754497-4b375a8e-4bae-4ad6-8a26-d2a859430e3e.PNG)
+
  
  
  ## 레시피
