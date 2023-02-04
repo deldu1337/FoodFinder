@@ -58,6 +58,10 @@
  
  
  ## 레시피
+ ![레시피1](https://user-images.githubusercontent.com/77719450/216755101-91a63be9-6d7c-4fed-a594-31efebef3679.PNG)
+ ![레시피2](https://user-images.githubusercontent.com/77719450/216755106-97589ab5-7d28-4fc6-a52f-68ff4d1e503a.PNG)
+ ![레시피3](https://user-images.githubusercontent.com/77719450/216755109-a50eed2d-84d9-4ea0-9fee-2c7cf7bb08e2.PNG)
+
  1. 레시피 추천을 위한 옵션 선택 (중복 선택 가능, 최소 하나 이상 선택)
  2. 찾기를 클릭하면 옵션 선택 기반으로 음식 메뉴 추천
  3. 음식 메뉴 목록에서 각 메뉴를 클릭하면 레시피 출력
