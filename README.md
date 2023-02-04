@@ -77,17 +77,20 @@
  ![레시피2](https://user-images.githubusercontent.com/77719450/216755106-97589ab5-7d28-4fc6-a52f-68ff4d1e503a.PNG)
  ![레시피3](https://user-images.githubusercontent.com/77719450/216755109-a50eed2d-84d9-4ea0-9fee-2c7cf7bb08e2.PNG)
  ![레시피4](https://user-images.githubusercontent.com/77719450/216755191-67fd27ac-9499-4798-a8f2-7bcb28b82436.PNG)
- 1. 레시피 추천을 위한 옵션 선택 (중복 선택 가능, 최소 하나 이상 선택)
+ 
+ 1. 레시피 추천을 위한 옵션 선택 (중복 선택 가능)
  2. 찾기를 클릭하면 옵션 선택 기반으로 음식 메뉴 추천
  3. 통합 검색 기능 제공
- 4. 음식 메뉴 목록에서 각 메뉴를 클릭하면 레시피 세부 화면 이동
+ 4. 음식 메뉴 목록에서 각 메뉴를 클릭하면, 레시피 세부 화면 이동
  
  ## 식당 추천
  ![식당추천1](https://user-images.githubusercontent.com/77719450/216755647-ba8b6ab4-f5e2-4942-99a4-e0a41e3de620.PNG)
  ![식당추천2](https://user-images.githubusercontent.com/77719450/216755655-a84673fe-6cae-4bd4-ab3c-c2c97d6dd46d.PNG)
  ![식당추천3](https://user-images.githubusercontent.com/77719450/216755691-013e70fc-b863-4e19-9bb0-061585a485c6.PNG)
- 1. 식당 추천을 위한 옵션 선택
- 2. 찾기를 클릭하면 현재 위치를 기반으로 사용자 주변 식당 목록 출력
+ 
+ 1. 식당 추천을 위한 옵션 선택 (중복 선택 가능)
+ 2. 찾기를 클릭하면 옵션 선택 기반으로 음식 메뉴 추천
+ 3. 음식 메뉴 목록에서 각 메뉴를 클릭하면, 
  
  
  ## 냉장고
