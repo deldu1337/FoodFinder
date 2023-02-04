@@ -90,20 +90,22 @@
  
  1. 식당 추천을 위한 옵션 선택 (중복 선택 가능)
  2. 찾기를 클릭하면 옵션 선택 기반으로 음식 메뉴 추천
- 3. 음식 메뉴 목록에서 각 메뉴를 클릭하면, 
- 
+ 3. 음식 메뉴 목록에서 각 메뉴를 클릭하면, 해당하는 메뉴에 대해 현재 위치를 기반한 주변 식당 추천
+ 4. 상세보기 클릭 시, 카카오맵과 연동된 상세 화면 이동
  
  ## 냉장고
  ![냉장고1](https://user-images.githubusercontent.com/77719450/216755978-97257504-17a5-4ec7-8f5c-5ab15a8c36c9.PNG)
  ![냉장고2](https://user-images.githubusercontent.com/77719450/216755980-b71e807c-3ea9-4f4c-8ef1-6afca9d1dae4.PNG)
+ 
  1. 사용자 본인이 소유하고 있는 재료를 냉장고 메뉴에 추가하여 그 재료를 기반으로 알맞은 음식 및 레시피 검색
  2. 냉장고 메뉴에서 재료를 추가 및 삭제한 뒤, 수정하기 버튼을 클릭하면 수정 반영
- 
+ 3. 레시피 검색 버튼 클릭 시, 냉장고 재료 기반으로 음식 메뉴 추천
  
  ## 게시판
- ![게시판1](https://user-images.githubusercontent.com/77719450/216756440-786289df-0641-48f8-abad-afd3b11431f4.PNG)
+ ![게시판1](https://user-images.githubusercontent.com/77719450/216758629-0ea9a39c-ba3e-458f-ad81-5001d3fd0ae8.PNG)
  ![게시판2](https://user-images.githubusercontent.com/77719450/216756445-bac6d813-201f-45ae-8886-859ccbd245bd.PNG)
- ![게시판3](https://user-images.githubusercontent.com/77719450/216756589-94841648-ad7b-4104-b83b-8952cda2e5cb.PNG)
+ ![게시판3](https://user-images.githubusercontent.com/77719450/216758640-c1c4074e-2131-4720-b41c-192569e39fd7.PNG)
+ 
  1. 본인만의 레시피를 게시판에 업로드
  2. 게시판 이용자들과 서로 레시피 공유 및 자유로운 소통 가능
  
